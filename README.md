@@ -14,19 +14,18 @@
 ## 👨‍💻 Sobre Mim
 
 <div align="center">
-  
-  ```java
-  public class CauaBarcellos {
-      String name = "Cauã Sousa Barcellos";
-      String focus = "Desenvolvimento Full Stack";
-      String[] technologies = {"Java", "Spring Boot", "JavaScript", "React"};
-      String email = "cauasousa9911@gmail.com";
-      
-      public void currentGoal() {
-          System.out.println("Criando projetos completos com frontend + backend integrado!");
-      }
-  }
-  ```
+
+```java
+public class CauaBarcellos {
+    String name = "Cauã Sousa Barcellos";
+    String focus = "Desenvolvimento Full Stack";
+    String[] technologies = {"Java", "Spring Boot", "JavaScript", "React"};
+    String email = "cauasousa9911@gmail.com";
+    
+    public void currentGoal() {
+        System.out.println("Criando projetos completos com frontend + backend integrado!");
+    }
+}
   
 </div>
 
