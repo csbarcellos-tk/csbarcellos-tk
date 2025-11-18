@@ -97,5 +97,3 @@
   
 </div>
 ```
-
-Pronto! 🚀 Agora é só copiar e colar tudo no seu README.md. Ficou bem mais organizado e profissional! ✨
