@@ -1,10 +1,8 @@
 # 🚀 Portfólio - Cauã Barcellos
 
-<div align="center">
-
-![Banner Animado](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=30&center=true&vCenter=true&width=900&duration=2000&pause=500&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+JAVA+%7C+SPRING+BOOT;🚀+FOCADO+EM+BACKEND+E+API+REST;⚡+INOVAÇÃO+E+QUALIDADE+NO+CÓDIGO&font=Fira%20Code)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=500&size=25&duration=2500&pause=800&color=9D4EDD&background=00000000&center=true&vCenter=true&width=900&height=40&lines=Building+the+Future;One+Line+at+a+Time;Java+Backend+Developer;Spring+Boot+Specialist" alt="Styled typing" />
+</p>
 
 ---
 
