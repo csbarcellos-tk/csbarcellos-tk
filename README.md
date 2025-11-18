@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner Animado](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=30&center=true&vCenter=true&width=900&duration=2000&pause=500&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+FULL+STACK;🚀+JAVA+%7C+SPRING+%7C+REACT;⚡+INOVAÇÃO+E+CRIATIVIDADE&font=Fira%20Code)
+![Banner Animado](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=30&center=true&vCenter=true&width=900&duration=2000&pause=500&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+JAVA+%7C+SPRING+BOOT;🚀+FOCADO+EM+BACKEND+E+API+REST;⚡+INOVAÇÃO+E+QUALIDADE+NO+CÓDIGO&font=Fira%20Code)
 
 </div>
 
@@ -10,20 +10,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-```java
-public class CauaBarcellos {
-    private String nome = "Cauã Barcellos";
-    private String foco = "Desenvolvimento Full Stack";
-    private String[] especialidades = {"Java", "Spring Boot", "React", "JavaScript"};
-    private String objetivo = "Criar soluções inovadoras com código limpo";
-    
-    public void apresentacao() {
-        System.out.println("💡 Transformando ideias em realidade através do código!");
-        System.out.println("🚀 Sempre aprendendo e evoluindo como desenvolvedor");
-        System.out.println("🎯 Focado em criar experiências digitais excepcionais");
-    }
-}
-```
+Sou um desenvolvedor **back-end** com foco em **Java e Spring Boot**, sempre buscando criar soluções robustas e eficientes. Atualmente estou me aprofundando no desenvolvimento de APIs REST e sistemas escaláveis.
+
+**🎯 Objetivo:** Me tornar um especialista em desenvolvimento back-end com Java
+
+**📚 Estudando:** Java, Spring Boot, JavaScript e React para compreender o desenvolvimento full stack
 
 ---
 
@@ -31,22 +22,32 @@ public class CauaBarcellos {
 
 ### **💻 Linguagens de Programação**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" alt="Linguagens" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
 ### **⚡ Frameworks & Bibliotecas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" alt="Frameworks" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </p>
 
 ### **🗄️ Banco de Dados**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
 
 ### **🔧 Ferramentas & Plataformas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,postman,docker,aws,linux" alt="Ferramentas" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 
 ---
@@ -70,44 +71,19 @@ public class CauaBarcellos {
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🎯 Foco de Estudos
 
-### 🔥 **[Sistema de Gestão - Full Stack]**
-> Java + Spring Boot + React + MySQL
-- ✅ **Backend RESTful** com arquitetura limpa
-- ✅ **Frontend moderno** com React e hooks
-- ✅ **API documentada** com Swagger
-- ✅ **Testes automatizados** JUnit e Mockito
+**💻 Atualmente dominando:**
+- Java e Spring Boot
+- Desenvolvimento de APIs REST
+- MySQL e modelagem de dados
+- JavaScript e React
 
-### 🚀 **[E-commerce React]**
-> React + JavaScript + CSS3
-- ✅ **Interface responsiva** e intuitiva
-- ✅ **Gerenciamento de estado** com Context API
-- ✅ **Integração com APIs** REST
-- ✅ **Design system** componentizado
-
-### ⚡ **[API REST - Spring Boot]**
-> Java + Spring Boot + PostgreSQL
-- ✅ **CRUD completo** com validações
-- ✅ **Segurança** com Spring Security
-- ✅ **Documentação** automática
-- ✅ **Deploy** em nuvem
-
----
-
-## 📈 Evolução Contínua
-
-```javascript
-const metas = {
-  current: ["Java Spring Boot", "React", "MySQL"],
-  learning: ["Microservices", "Docker", "AWS"],
-  next: ["Kubernetes", "GraphQL", "Node.js"],
-  
-  progress: () => {
-    return "🚀 Evoluindo 1% melhor every day!";
-  }
-};
-```
+**🚀 Próximos passos:**
+- Microsserviços com Spring Cloud
+- Testes automatizados (JUnit, Mockito)
+- Docker e containers
+- Boas práticas de código
 
 ---
 
@@ -126,27 +102,12 @@ const metas = {
 
 <div align="center">
 
-### 💡 *"O código é poesia, cada linha conta uma história"*
+### 💡 *"Cada linha de código é um passo em direção à excelência"*
 
-⭐ **Sinta-se à vontade para explorar meus repositórios e contribuir!**
+⭐ **Explore meus repositórios e veja minha evolução!**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer)
 
 </div>
 
 ---
-
-## ✨ Principais Melhorias Implementadas:
-
-1. **🎨 Design mais moderno e profissional**
-2. **🚀 Banner animado personalizado e impactante**
-3. **💻 Código ilustrativo em Java e JavaScript**
-4. **📊 Seção de estatísticas GitHub mais completa**
-5. **🎯 Projetos em destaque bem detalhados**
-6. **🛠️ Tech Stack organizada por categorias**
-7. **📱 Layout totalmente responsivo**
-8. **✨ Elementos visuais e badges profissionais**
-9. **🔥 Call-to-actions e convites para colaboração**
-10. **💫 Footer animado e mensagem inspiradora**
-
-O perfil agora transmite uma imagem mais profissional e atrativa para recrutadores e outros desenvolvedores!
