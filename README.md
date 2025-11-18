@@ -1,8 +1,7 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00aaff&size=28&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+o+Barcellos!;Apaixonado+por+tecnologia+e+criação+de+projetos;Bem-vindo+ao+meu+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff00&size=30&center=true&vCenter=true&width=900&duration=2000&pause=500&repeat=true&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED;WELCOME+BARCELLOS;LOADING+PROJECTS..._">
 </p>
-
 ---
 
 ## 🚀 Sobre mim  
