@@ -8,7 +8,8 @@
 ## 🚀 Sobre mim  
 💻 Foco atual em **Java, Spring Boot, JavaScript e React**  
 📚 Sempre estudando novas tecnologias  
-🎯 Criando projetos com frontend + backend integrado
+🎯 Criando projetos com frontend + backend integrado  
+📧 Contato: **cauasousa9911@gmail.com**
 
 ---
 
@@ -56,9 +57,24 @@
 
 ## 🌐 Redes
 <p align="center">
-  <a href="#"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"></a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/caua-sousa-30035b382" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/caua_sousa08" target="_blank">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:cauasousa9911@gmail.com" target="_blank">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+  </a>
+
 </p>
 
---- 
+---
 
 ✨ *Feel free para explorar meus projetos!*
