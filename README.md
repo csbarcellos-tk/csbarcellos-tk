@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=26&center=true&vCenter=true&width=800&duration=3000&pause=1000&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+JAVA+%7C+SPRING+BOOT;🚀+BACKEND+E+API+REST;⚡+INOVAÇÃO+E+QUALIDADE+NO+CÓDIGO&font=Fira%20Code)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=26&center=true&vCenter=true&width=800&duration=3000&pause=1000&repeat=true&lines=✨+BEM-VINDO+AO+MEU+PERFIL!;💻+DESENVOLVEDOR+JAVA+%7C+SPRING+BOOT;🚀+BACKEND;⚡+INOVAÇÃO+E+QUALIDADE+NO+CÓDIGO&font=Fira%20Code)
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=120&section=header" />
 
@@ -69,28 +69,42 @@ Me tornar especialista em backend Java.
 
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=csbarcellos-tk&theme=dark&hide_border=true&background=00000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00"/>
 
-</div>
-
----
-
 ## 🎯 Foco de Estudos
+
 <div align="center">
 
-### 💻 Atualmente aprendendo:
-- Java & Spring Boot  
-- Desenvolvimento de APIs REST  
-- MySQL e Modelagem de Dados  
-- JavaScript & React  
+<img src="https://readme-typing-svg.herokuapp.com?color=00ff00&size=24&center=true&vCenter=true&width=500&lines=📚+O+que+estou+estudando;🚀+Meus+próximos+passos" />
 
-### 🚀 Próximos passos:
-- Microsserviços com Spring Cloud  
-- Testes automatizados (JUnit, Mockito)  
-- Docker  
-- Boas práticas e Clean Code  
+---
+
+### 💻 Atualmente aprendendo:
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Modelagem%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d8ff" />
 
 </div>
 
 ---
+
+### 🚀 Próximos passos:
+<div align="center">
+
+<img src="https://img.shields.io/badge/Microsserviços%20(Spring%20Cloud)-000000?style=for-the-badge&logo=spring&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Testes%20(JUnit%20%7C%20Mockito)-000000?style=for-the-badge&logo=testcafe&logoColor=00ff00" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00aaff" />
+<img src="https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=00ff00" />
+
+</div>
+
+---
+
+</div>
+
 
 ## 🌐 Conecte-se Comigo
 <div align="center">
