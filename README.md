@@ -101,20 +101,21 @@ Me tornar especialista em backend Java.
 
 </div>
 
----
-
 ## 🌐 Conecte-se Comigo
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-00ff00?style=for-the-badge&logo=vercel&logoColor=000000)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-sousa-30035b382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caua_sousa08?igsh=bzFrYWtmMXdoM2o1)  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Cauasousa9911@gmail.com)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csbarcellos-tk)  
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-00ff00?style=for-the-badge&logo=vercel&logoColor=000000)](URL_DO_SEU_PORTFOLIO)
 
 </div>
 
----
 
 <div align="center">
 
