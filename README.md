@@ -106,7 +106,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/csbarcellos-tk/csbarcellos-tk/output/snake.svg" alt="Snake animation" />
 
 ###
 
