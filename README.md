@@ -5,12 +5,25 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csbarcellos-tk&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csbarcellos-tk&layout=compact&theme=radical" height="150" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=csbarcellos-tk&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=csbarcellos-tk&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=csbarcellos-tk&show_icons=true" height="150" />
+  </picture>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csbarcellos-tk&layout=compact" height="150" />
 </div>
 
 ###
 <div align="left">
+
+<img align="right" height="171" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnhnczF0aGE0YnA0ZGIxNWlneGpwbzJ2Z2IwcW5qMGRqbDBpMHN2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CX4qeENSjFiKI/giphy.gif"  />
 
 ## 🛠️ Tech Stack
 
@@ -88,8 +101,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo" />
   </a>
 </div>
-
-<img align="right" height="171" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnhnczF0aGE0YnA0ZGIxNWlneGpwbzJ2Z2IwcW5qMGRqbDBpMHN2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CX4qeENSjFiKI/giphy.gif"  />
 
 ###
 
