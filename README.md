@@ -10,7 +10,7 @@
 </div>
 
 ###
-<div align="right">
+<div align="left">
 
 ## 🛠️ Tech Stack
 
