@@ -2,12 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
+    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update snake animation
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
 
     steps:
@@ -20,8 +20,9 @@ jobs:
           github_user_name: csbarcellos-tk
           outputs: dist/snake.svg
 
-      - name: Push
+      - name: Push snake to the output branch
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist/snake.svg"
-          message: "Generated snake animation"
+          message: "🐍 Generated snake animation"
+          default_branch: output
