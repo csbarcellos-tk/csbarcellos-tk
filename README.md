@@ -17,15 +17,6 @@ Atualmente estudando APIs REST, arquitetura e desenvolvimento full stack.
 
 ---
 
-## 🎯 Objetivo
-<div align="center">
-Me tornar especialista em backend Java.
-
-**📚 Estudando:** Java, Spring Boot, JavaScript e React.
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Linguagens de Programação
