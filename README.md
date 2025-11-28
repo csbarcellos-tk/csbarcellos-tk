@@ -24,12 +24,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caua_sousa08)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauasousa9911@gmail.com) 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/csbarcellos-tk/csbarcellos-tk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/csbarcellos-tk/csbarcellos-tk/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/csbarcellos-tk/csbarcellos-tk/output/pacman-contribution-graph.svg">
-</picture>
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=blob&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
