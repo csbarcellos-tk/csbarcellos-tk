@@ -28,10 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-sousa-30035b382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey)](#)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caua_sousa08)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauasousa9911@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-sousa-30035b382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey)](#)lor=white)](mailto:cauasousa9911@gmail.com) 
+--‐------------------
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=blob&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
