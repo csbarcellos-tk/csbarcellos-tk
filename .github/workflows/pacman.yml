@@ -1,0 +1,38 @@
+name: Generate Pac-Man Contribution Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # roda a cada 12h
+  workflow_dispatch: # permite rodar manualmente
+  push:
+    branches: ["main"]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Graph (Light)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: csbarcellos-tk
+          outputs: "output/pacman-contribution-graph.svg"
+
+      - name: Generate Pac-Man Graph (Dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: csbarcellos-tk
+          color_snake: "#ffde00"      # Pac-Man amarelo
+          color_dots: "#ffffff"
+          color_path: "#ffffff"
+          color_bg: "#000000"         # fundo escuro
+          outputs: "output/pacman-contribution-graph-dark.svg"
+
+      - name: Push Generated Files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Pac-Man Graph"
+          branch: output
+          file_pattern: output/*.svg
