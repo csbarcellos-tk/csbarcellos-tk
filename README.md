@@ -49,7 +49,7 @@
 ```typescript
 const dev = {
   nome:      "Cauã Barcellos",
-  role:      "Full Stack Developer",
+  role:      "Junior Developer",
   base:      "Salvador, Bahia 🇧🇷",
 
   stack: {
