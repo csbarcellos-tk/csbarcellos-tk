@@ -1,88 +1,61 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d0d0d,50:4d0000,100:ff3333&text=CAU%C3%83%20BARCELLOS&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=dev%20full%20stack%20%E2%80%A2%20Salvador%2C%20BA%20%F0%9F%87%A7%F0%9F%87%B7&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
-</p>
+<!--
+  ⚡ Este README é GERADO AUTOMATICAMENTE por scripts/build.mjs (GitHub Actions, todo dia às 03:00 de Salvador).
+  Para mudar textos, projetos em destaque, links ou a stack, edite o config.json — não este arquivo.
+-->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+no+back;React+%2B+Vite+%2B+Tailwind+no+front;Bots%2C+automa%C3%A7%C3%A3o+e+scripts+em+Python;Apps+mobile+com+Flutter;Aberto+a+freelas+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/caua-sousa-30035b382"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff3333"/></a>
-  <a href="https://instagram.com/caua_sousa08"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff3333"/></a>
-  <a href="mailto:cauasousa9911@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff3333"/></a>
-  <img src="https://komarev.com/ghpvc/?username=csbarcellos-tk&style=for-the-badge&color=ff3333&label=VISITAS"/>
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Cauã Barcellos — FULL STACK DEVELOPER"/>
 
-<!-- ═══════════════ TERMINAL ═══════════════ -->
-<p align="center">
-  <img src="./terminal.svg" width="100%" alt="terminal animado"/>
-</p>
+<a href="https://www.linkedin.com/in/caua-sousa-30035b382"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn"/></a>
+<a href="https://instagram.com/caua_sousa08"><img src="./assets/btn-instagram.svg" width="32%" alt="Instagram"/></a>
+<a href="mailto:cauasousa9911@gmail.com"><img src="./assets/btn-email.svg" width="32%" alt="E-mail"/></a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/><br/>
 
-<!-- ═══════════════ STACK ═══════════════ -->
-<h2 align="center">⚡ Arsenal</h2>
+<img src="./assets/h00.svg" width="100%" alt="00 // WHOAMI — quem está do outro lado do teclado"/>
 
-<p align="center">
-  <b>Back-end</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python&theme=dark" />
-</p>
-<p align="center">
-  <b>Front-end</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,html,css&theme=dark" />
-</p>
-<p align="center">
-  <b>Mobile & Dados</b><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,r,postgres,mysql&theme=dark" />
-</p>
-<p align="center">
-  <b>Ferramentas & Deploy</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode&theme=dark" />
-</p>
+<img src="./assets/terminal.svg" width="100%" alt="neofetch: Cauã Barcellos, Dev Full Stack Jr em Salvador, BA - Brasil"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/><br/>
 
-<!-- ═══════════════ PROJETOS ═══════════════ -->
-<h2 align="center">🚀 Projetos em destaque</h2>
+<img src="./assets/h01.svg" width="100%" alt="01 // ARSENAL — ferramentas que eu uso pra tirar ideia do papel"/>
 
-<p align="center">
-  <a href="https://github.com/csbarcellos-tk/safety-consulting-landing-page"><img src="./card-safety-landing.svg" width="49%"/></a>
-  <a href="https://github.com/csbarcellos-tk/Farmacia"><img src="./card-farmacia.svg" width="49%"/></a>
-  <a href="https://github.com/csbarcellos-tk/Supermercado_project_V2.2"><img src="./card-supermercado.svg" width="49%"/></a>
-  <a href="https://github.com/csbarcellos-tk/github-profile-template"><img src="./card-profile-template.svg" width="49%"/></a>
-</p>
+<img src="./assets/stack.svg" width="100%" alt="Stack: Java, Spring Boot, Node.js, Python · React, Vite, Tailwind, TypeScript, JavaScript, HTML, CSS · Flutter, Dart, R, PostgreSQL, MySQL · Git, GitHub, Docker, Vercel, Render, Figma, Insomnia"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/><br/>
 
-<!-- ═══════════════ NÚMEROS ═══════════════ -->
-<h2 align="center">📊 Números</h2>
+<img src="./assets/h02.svg" width="100%" alt="02 // PROJETOS — o que eu ando construindo"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=csbarcellos-tk&hide_border=true&background=0d0d0d&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=1a1a1a"/>
-</p>
+<a href="https://github.com/csbarcellos-tk/safety-consulting-landing-page"><img src="./assets/card-1.svg" width="49%" alt="safety-consulting-landing-page"/></a>
+<a href="https://github.com/csbarcellos-tk/Supermercado_project_V2.2"><img src="./assets/card-2.svg" width="49%" alt="Supermercado_project_V2.2"/></a>
+<a href="https://github.com/csbarcellos-tk/Farmacia"><img src="./assets/card-3.svg" width="49%" alt="Farmacia"/></a>
+<a href="https://github.com/csbarcellos-tk/github-profile-template"><img src="./assets/card-4.svg" width="49%" alt="github-profile-template"/></a>
 
-<!-- Gráfico 3D com commits, estrelas e linguagens (gerado pelo workflow profile-3d.yml) -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="contribuições em 3D"/>
-</p>
+<br/><br/>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<h2 align="center">🐍 A cobrinha come minhas contribuições</h2>
+<img src="./assets/h03.svg" width="100%" alt="03 // SKYLINE — cada prédio é um dia de código"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/csbarcellos-tk/csbarcellos-tk/output/snake-red.svg" width="100%" alt="snake"/>
-</p>
+<img src="./assets/skyline.svg" width="100%" alt="Skyline 3D de contribuições do último ano"/>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<p align="center">
-  <i>"Não espere estar pronto. Você nunca vai estar. Comece agora."</i>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="mailto:cauasousa9911@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Bora%20construir%20algo%20junto-ff3333?style=for-the-badge&labelColor=0d0d0d"/></a>
-</p>
+<img src="./assets/h04.svg" width="100%" alt="04 // NÚMEROS — atualizados sozinhos todo dia, às 3h da manhã"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3333,50:4d0000,100:0d0d0d&section=footer" width="100%"/>
+<img src="./assets/stats.svg" width="100%" alt="Estatísticas do GitHub"/>
+
+<br/><br/>
+
+<img src="./assets/h05.svg" width="100%" alt="05 // COBRINHA — ela vive de commits"/>
+
+<img src="https://raw.githubusercontent.com/csbarcellos-tk/csbarcellos-tk/output/snake.svg" width="100%" alt="Cobrinha comendo o gráfico de contribuições"/>
+
+<br/><br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Valeu pela visita! Salvador à noite."/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=csbarcellos-tk&style=flat-square&color=ff2e88&label=visitas" alt="visitas"/>
+
+</div>
