@@ -1,0 +1,158 @@
+{
+  "username": "csbarcellos-tk",
+  "name": "Cauã Barcellos",
+  "heroName": "CAUÃ BARCELLOS",
+  "role": "Dev Full Stack Jr",
+  "roleHero": "FULL STACK DEVELOPER",
+  "location": "Salvador, BA - Brasil",
+  "education": "Técnico em ADS - SENAI",
+  "stackLine": "Java · Spring Boot · React · Flutter",
+  "tagline": "transformando café em código em salvador, ba",
+  "motto": "não espere estar pronto. comece agora.",
+  "status": "aberto a freelas e novas oportunidades",
+  "timezone": "America/Bahia",
+  "excludeLanguages": [
+    "Tcl"
+  ],
+  "excludeRepos": [
+    "csbarcellos-tk"
+  ],
+  "featured": [
+    "safety-consulting-landing-page",
+    "Supermercado_project_V2.2",
+    "Farmacia",
+    "github-profile-template"
+  ],
+  "descriptions": {
+    "Farmacia": "Sistema web de farmácia feito com React + Vite.",
+    "Supermercado_project_V2.2": "CD de Sabá: sistema de gestão full stack com Spring Boot, MySQL, senhas com BCrypt e painel admin em React.",
+    "github-profile-template": "Template de README estilizado para GitHub, com animações, badges e seções customizadas.",
+    "safety-consulting-landing-page": "Landing page institucional para uma empresa de segurança do trabalho."
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/caua-sousa-30035b382",
+    "instagram": "https://instagram.com/caua_sousa08",
+    "email": "mailto:cauasousa9911@gmail.com"
+  },
+  "stack": [
+    {
+      "group": "BACK-END",
+      "items": [
+        [
+          "openjdk",
+          "Java"
+        ],
+        [
+          "springboot",
+          "Spring Boot"
+        ],
+        [
+          "nodedotjs",
+          "Node.js"
+        ],
+        [
+          "python",
+          "Python"
+        ]
+      ]
+    },
+    {
+      "group": "FRONT-END",
+      "items": [
+        [
+          "react",
+          "React"
+        ],
+        [
+          "vite",
+          "Vite"
+        ],
+        [
+          "tailwindcss",
+          "Tailwind"
+        ],
+        [
+          "typescript",
+          "TypeScript"
+        ],
+        [
+          "javascript",
+          "JavaScript"
+        ],
+        [
+          "html5",
+          "HTML"
+        ],
+        [
+          "css",
+          "CSS"
+        ]
+      ]
+    },
+    {
+      "group": "MOBILE & DADOS",
+      "items": [
+        [
+          "flutter",
+          "Flutter"
+        ],
+        [
+          "dart",
+          "Dart"
+        ],
+        [
+          "r",
+          "R"
+        ],
+        [
+          "postgresql",
+          "PostgreSQL"
+        ],
+        [
+          "mysql",
+          "MySQL"
+        ]
+      ]
+    },
+    {
+      "group": "FERRAMENTAS",
+      "items": [
+        [
+          "git",
+          "Git"
+        ],
+        [
+          "github",
+          "GitHub"
+        ],
+        [
+          "docker",
+          "Docker"
+        ],
+        [
+          "vercel",
+          "Vercel"
+        ],
+        [
+          "render",
+          "Render"
+        ],
+        [
+          "figma",
+          "Figma"
+        ],
+        [
+          "insomnia",
+          "Insomnia"
+        ]
+      ]
+    }
+  ],
+  "tags": {
+    "github-profile-template": [
+      "Markdown",
+      "SVG",
+      "GitHub"
+    ]
+  }
+}
