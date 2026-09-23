@@ -18,7 +18,7 @@
 
 <!-- ═══════════════ TERMINAL ═══════════════ -->
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="terminal animado"/>
+  <img src="./terminal.svg" width="100%" alt="terminal animado"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -49,10 +49,10 @@
 <h2 align="center">🚀 Projetos em destaque</h2>
 
 <p align="center">
-  <a href="https://github.com/csbarcellos-tk/safety-consulting-landing-page"><img src="./assets/card-safety-landing.svg" width="49%"/></a>
-  <a href="https://github.com/csbarcellos-tk/Farmacia"><img src="./assets/card-farmacia.svg" width="49%"/></a>
-  <a href="https://github.com/csbarcellos-tk/Supermercado_project_V2.2"><img src="./assets/card-supermercado.svg" width="49%"/></a>
-  <a href="https://github.com/csbarcellos-tk/github-profile-template"><img src="./assets/card-profile-template.svg" width="49%"/></a>
+  <a href="https://github.com/csbarcellos-tk/safety-consulting-landing-page"><img src="./card-safety-landing.svg" width="49%"/></a>
+  <a href="https://github.com/csbarcellos-tk/Farmacia"><img src="./card-farmacia.svg" width="49%"/></a>
+  <a href="https://github.com/csbarcellos-tk/Supermercado_project_V2.2"><img src="./card-supermercado.svg" width="49%"/></a>
+  <a href="https://github.com/csbarcellos-tk/github-profile-template"><img src="./card-profile-template.svg" width="49%"/></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
