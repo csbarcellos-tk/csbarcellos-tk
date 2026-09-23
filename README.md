@@ -49,35 +49,22 @@
 <h2 align="center">🚀 Projetos em destaque</h2>
 
 <p align="center">
-  <a href="https://github.com/csbarcellos-tk/safety-consulting-landing-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csbarcellos-tk&repo=safety-consulting-landing-page&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff3333&text_color=cccccc"/>
-  </a>
-  <a href="https://github.com/csbarcellos-tk/Farmacia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csbarcellos-tk&repo=Farmacia&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff3333&text_color=cccccc"/>
-  </a>
-  <a href="https://github.com/csbarcellos-tk/Supermercado_project_V2.2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csbarcellos-tk&repo=Supermercado_project_V2.2&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff3333&text_color=cccccc"/>
-  </a>
-  <a href="https://github.com/csbarcellos-tk/github-profile-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csbarcellos-tk&repo=github-profile-template&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff3333&text_color=cccccc"/>
-  </a>
+  <a href="https://github.com/csbarcellos-tk/safety-consulting-landing-page"><img src="./assets/card-safety-landing.svg" width="49%"/></a>
+  <a href="https://github.com/csbarcellos-tk/Farmacia"><img src="./assets/card-farmacia.svg" width="49%"/></a>
+  <a href="https://github.com/csbarcellos-tk/Supermercado_project_V2.2"><img src="./assets/card-supermercado.svg" width="49%"/></a>
+  <a href="https://github.com/csbarcellos-tk/github-profile-template"><img src="./assets/card-profile-template.svg" width="49%"/></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ═══════════════ STATS ═══════════════ -->
+<!-- ═══════════════ NÚMEROS ═══════════════ -->
 <h2 align="center">📊 Números</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=csbarcellos-tk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff3333&icon_color=ff3333&text_color=ffffff&rank_icon=percentile"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csbarcellos-tk&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=csbarcellos-tk&hide_border=true&background=0d0d0d&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=1a1a1a"/>
 </p>
 
-<!-- Gráfico 3D (gerado pelo workflow profile-3d.yml) -->
+<!-- Gráfico 3D com commits, estrelas e linguagens (gerado pelo workflow profile-3d.yml) -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="contribuições em 3D"/>
 </p>
