@@ -2,10 +2,8 @@ name: Gerar cobrinha
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 03:00 em Salvador (UTC-3)
+    - cron: "0 6 * * *" # 03:00 em Salvador (UTC-3)
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -19,8 +17,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-red.svg?color_snake=#ff3333&color_dots=#161b22,#4d0000,#800000,#cc0000,#ff3333
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=#22d3ee&color_dots=#161030,#5b21b6,#c026d3,#ff2e88,#ffc53d
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

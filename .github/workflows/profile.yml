@@ -1,0 +1,52 @@
+name: Atualizar perfil
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 03:00 em Salvador (UTC-3)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "config.json"
+      - "scripts/**"
+      - "package.json"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: perfil
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependências
+        run: npm install --no-audit --no-fund
+
+      - name: Gerar SVGs e README
+        run: node scripts/build.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md
+          if git diff --cached --quiet; then
+            echo "Nada mudou hoje."
+            exit 0
+          fi
+          git commit -m "chore: atualizar perfil"
+          git push
